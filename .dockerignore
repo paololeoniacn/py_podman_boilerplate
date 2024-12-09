@@ -1,0 +1,9 @@
+# Ignora il virtual environment locale
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignora configurazioni locali
+*.env
